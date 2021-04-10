@@ -1,5 +1,5 @@
 # Product classification
-                           _created by Vansh_ <br>
+_created by Vansh_ <br>
 **_This repository will be used to classify products into categories based on their descriptions._** 
 
 ### Prerequisite
