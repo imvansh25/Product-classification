@@ -25,4 +25,4 @@ Please have a look at **Readme.pdf**
 |Bidirectional LSTM  | 93.75      | 93.75  |  93.75      | 93.75 |
 
 
-Fr further details please have a look at **_Readme.pdf_**
+For further details please have a look at **_Readme.pdf_**
